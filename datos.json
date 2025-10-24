@@ -1,0 +1,40 @@
+[
+  {
+    "imagen": "https://pameee73.github.io/17-10new/img/album.webp",
+    "titulo": "Chicas pesadas",
+    "categoria": "Editorial",
+    "descripcion": "chicas pesadasss"
+  },
+  {
+    "imagen": "https://pameee73.github.io/17-10new/boop.webp",
+    "titulo": "Boop",
+    "categoria": "Sistema de navegación",
+    "descripcion": "cute"
+  },
+     {
+    "imagen": "https://pameee73.github.io/17-10new/img/igualajesus.webp",
+    "titulo": "Igual a Jesús",
+    "categoria": "Editorial",
+    "descripcion": "evento eclesiastico"
+  },
+
+    {
+    "imagen": "img/https://pameee73.github.io/17-10new/img/ironman lego.webp",
+    "titulo": "Ironman lego",
+    "categoria": "Modelado 3d",
+    "descripcion": "el mejor super heroe"
+  },
+  {
+    "imagen": "https://pameee73.github.io/17-10new/img/isabela.webp",
+    "titulo": "Editorial",
+    "categoria": "Editorial",
+    "descripcion": "Trabajo muy bonito"
+  },
+  {
+    "imagen": "https://pameee73.github.io/17-10new/img/opti_.webp",
+    "titulo": "Sistema de reciclaje",
+    "categoria": "Sistema de reciclaje",
+    "descripcion": "Sistema de reciclaje para peñalolen"
+  }
+
+]
